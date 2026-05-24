@@ -27,7 +27,7 @@ United States and European Union.
 - Task3_Presentation_Audio.mp3: Under-five-minute oral presentation.
 - Task3_Prototype_Notebook.ipynb: Python prototype notebook.
 - Task3_Synthetic_Data.csv: Synthetic credit application dataset.
-- Task3_Output.zip: Key outputs of task.
+- Task3_Outputs.zip: Key outputs of task.
 
 ## Data Note
 This project uses synthetic data for demonstration purposes. No real American Express customer data is used.
